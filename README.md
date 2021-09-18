@@ -14,3 +14,4 @@ y volvere a recordar o comparar en antes y el despuès de mi experiencia :-) act
 por motivos que tal vez cambiaron algunas librerias.
 
 La fecha en la que estoy documentando mi primer proyecto es Sabado 18 de septiembre de 2021 horas 18:39:09 
+Materia de Programación Básica de la UPDS
