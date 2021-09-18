@@ -15,3 +15,5 @@ por motivos que tal vez cambiaron algunas librerias.
 
 La fecha en la que estoy documentando mi primer proyecto es Sabado 18 de septiembre de 2021 horas 18:39:09 
 Materia de Programación Básica de la UPDS
+Tambien mencionar que realizamos un juego con C# del ahorcado y eso 2 proyectos se presento en el primer semestre de la universidad ademas de ser la primera 
+materia de la U.
