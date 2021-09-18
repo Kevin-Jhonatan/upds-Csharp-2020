@@ -13,3 +13,4 @@ y volvere a recordar o comparar en antes y el despuès de mi experiencia :-) act
 # Si desean correr el código antes deben instalarse visual studio community 2017 y recordar si tienen una nueva version de visual studio revisar las librerias
 por motivos que tal vez cambiaron algunas librerias.
 
+La fecha en la que estoy documentando mi primer proyecto es Sabado 18 de septiembre de 2021 horas 18:39:09 
